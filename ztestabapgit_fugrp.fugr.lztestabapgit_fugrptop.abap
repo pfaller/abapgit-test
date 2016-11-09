@@ -1,0 +1,3 @@
+FUNCTION-POOL ZTESTABAPGIT_FUGRP.           "MESSAGE-ID ..
+
+* INCLUDE LZTESTABAPGIT_FUGRPD...            " Local class definition

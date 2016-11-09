@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>function group for tests</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZTESTABAPGIT_FUGRPTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZTESTABAPGIT_FUGRP</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZTESTABAPGIT_EXPORT_FULL</FUNCNAME>
+     <INCLUDE>LZTESTABAPGIT_FUGRPU01</INCLUDE>
+     <GLOBAL_FLAG/>
+     <REMOTE_CALL/>
+     <UPDATE_TASK/>
+     <SHORT_TEXT>test</SHORT_TEXT>
+     <REMOTE_BASXML/>
+     <IMPORT/>
+     <CHANGING/>
+     <EXPORT/>
+     <TABLES>
+      <RSTBL>
+       <PARAMETER>TAB_P2</PARAMETER>
+       <DBSTRUCT/>
+       <TYPES/>
+       <OPTIONAL/>
+       <TYP>ZTESTABAPGIT_TABLE</TYP>
+       <CLASS/>
+       <REF_CLASS/>
+       <LINE_OF/>
+       <TABLE_OF/>
+      </RSTBL>
+     </TABLES>
+     <EXCEPTION/>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>TAB_P2</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT/>
+       <INDEX> 001</INDEX>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+   <DYNPROS/>
+   <CUA>
+    <ADM>
+     <ACTCODE/>
+     <MENCODE/>
+     <PFKCODE/>
+     <DEFAULTACT/>
+     <DEFAULTPFK/>
+     <MOD_LANGU/>
+    </ADM>
+    <STA/>
+    <FUN/>
+    <MEN/>
+    <MTX/>
+    <ACT/>
+    <BUT/>
+    <PFK/>
+    <SET/>
+    <DOC/>
+    <TIT/>
+    <BIV/>
+   </CUA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
