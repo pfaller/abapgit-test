@@ -3,8 +3,8 @@
  <asx:values>
   <DATA>
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
-   <STARTING_FOLDER>src/</STARTING_FOLDER>
-   <FOLDER_LOGIC>full</FOLDER_LOGIC>
+   <STARTING_FOLDER>/src/</STARTING_FOLDER>
+   <FOLDER_LOGIC>FULL</FOLDER_LOGIC>
    <IGNORE>
     <item>/.gitignore</item>
     <item>/LICENSE</item>
